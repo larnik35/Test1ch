@@ -26,6 +26,9 @@ void FillArrey(string[] array) // Заполнение массива
     }
 }
 
+
+
+
 void PrintArray(string[] array, int n) // Вывод массива на экран с условием задачи
 {
     Console.Write(" [");
